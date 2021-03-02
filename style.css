@@ -1,0 +1,58 @@
+h1 {
+	text-align: left;
+	color: gold;
+	font-size: 46px;
+	font-family: 'Lemonada', cursive;
+	margin: auto;
+	text-decoration: underline;
+	width: 600px;
+	
+}
+p {
+	color:White;
+	text-align: left;
+	font-size: 24px;
+    width: 600px;
+	margin: auto;
+	font-family:"Comic Sans MS";
+	
+}
+
+body {
+    background-image: url("http://cdn.wonderfulengineering.com/wp-content/uploads/2014/09/blue-wallpaper-6.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment:fixed;
+	
+}
+
+#pic1{
+	position:relative;
+	
+}
+
+#pic2{
+	position:absolute;
+	
+}
+
+nav {
+  background-color: rgb(25, 25, 25);
+  text-align: left;
+}
+
+nav > ul > li {
+  display: inline-block;
+  padding: 10px 20px 10px 20px;
+  margin-left: 15px;
+  margin-right: 5px;
+}
+
+nav > ul > li > a {
+  color: white;
+  text-decoration: none;
+}
+
+nav > ul > li:hover {
+  background-color: rgb(130, 180, 230);
+}
