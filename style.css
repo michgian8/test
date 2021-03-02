@@ -19,10 +19,11 @@ p {
 }
 
 body {
-    background-image: url("http://cdn.wonderfulengineering.com/wp-content/uploads/2014/09/blue-wallpaper-6.jpg");
+    background-image: url("background.jpg");
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment:fixed;
+    background-size: cover;
 	
 }
 
